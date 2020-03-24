@@ -463,10 +463,6 @@ nav {
     text-align: left;
 }
 
-#message-support:hover {
-    visibility: hidden;
-}
-
 .fa-caret-down {
     font-size: 90px;
     color: white;
